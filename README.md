@@ -1,2 +1,2 @@
-# Hamiltonian Path
- Hamiltonian Path in Polynomial time
+# Euclidean TSP Path
+Polynomial Time
