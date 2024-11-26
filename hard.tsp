@@ -1,0 +1,27 @@
+NAME : hard_instance_20
+TYPE : TSP
+COMMENT : A challenging TSP instance with 20 cities arranged in clusters and symmetries.
+DIMENSION : 20
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+1  100.0  100.0
+2  102.0  98.0
+3  98.0   102.0
+4  100.0  104.0
+5  104.0  100.0
+6  150.0  150.0
+7  152.0  148.0
+8  148.0  152.0
+9  150.0  154.0
+10 154.0  150.0
+11 200.0  200.0
+12 202.0  198.0
+13 198.0  202.0
+14 200.0  204.0
+15 204.0  200.0
+16 250.0  250.0
+17 252.0  248.0
+18 248.0  252.0
+19 250.0  254.0
+20 254.0  250.0
+EOF
